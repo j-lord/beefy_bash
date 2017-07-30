@@ -14,7 +14,7 @@ Beefed up bash profile for all of those shortcuts you wish you had.
 ![Alt text](/../screenshots/Terminal_After.png?raw=true "emojif")
 
 #### To set the origianl emoji that you would like to see, the file must be edited using nano. 
-### $ nano ~/.bash_profile
+$ nano ~/.bash_profile
 
-And set the default_emoji=🤓
-of course choosing which ever emoij you'd lile as your default
+#### And set the default_emoji=🤓
+#### of course choosing which ever emoij you'd lile as your default
