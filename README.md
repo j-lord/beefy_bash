@@ -18,3 +18,8 @@ $ nano ~/.bash_profile
 
 #### And set the default_emoji=🤓
 #### of course choosing which ever emoij you'd like as your default
+
+#### $ o  opens the current directory that you are in 
+#### $ o /Users/admin/Desktop/foo.folder/ opens the foo.folder directory GUI window 
+![Alt text](/../screenshots/o_command.png?raw=true "ocommand")
+![Alt text](/../screenshots/open_folder.png?raw=true "openFolder")
