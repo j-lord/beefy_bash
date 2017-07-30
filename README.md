@@ -1,14 +1,16 @@
 # beefy_bash
+## Beefed up bash profile for all of those shortcuts you wish you had. 
+
+#### $ mod  shows all of your installed python modules 
+![Alt text](/../screenshots/mod_command.png?raw=true "mod")
+#### $ modu  upgrades all of your installed python modules
+![Alt text](/../screenshots/modu_command.png?raw=true "modu")
+
 #### $ o  opens the current directory that you are in 
 #### $ o /Users/admin/Desktop/foo.folder/ opens the foo.folder directory GUI window 
 ![Alt text](/../screenshots/o_command.png?raw=true "ocommand")
 ![Alt text](/../screenshots/open_folder.png?raw=true "openFolder")
 
-Beefed up bash profile for all of those shortcuts you wish you had. 
-#### $ mod  shows all of your installed python modules 
-![Alt text](/../screenshots/mod_command.png?raw=true "mod")
-#### $ modu  upgrades all of your installed python modules
-![Alt text](/../screenshots/modu_command.png?raw=true "modu")
 #### $ emoji 🤓 will set a new emoji in your window
 #### Before...
 ![Alt text](/../screenshots/Terminal_Before.png?raw=true "emojiB4")
