@@ -11,6 +11,10 @@
 ![Alt text](/../screenshots/o_command.png?raw=true "ocommand")
 ![Alt text](/../screenshots/open_folder.png?raw=true "openFolder")
 
+## in case you work in changing colors in python 
+![Alt text](/../screenshots/color_command.png?raw=true "colorCommand")
+![Alt text](/../screenshots/color.png?raw=true "color")
+
 #### $ emoji 🤓 will set a new emoji in your window
 ![Alt text](/../screenshots/Terminal_Before.png?raw=true "emojiB4")
 ![Alt text](/../screenshots/Terminal_After.png?raw=true "emojif")
@@ -18,7 +22,3 @@
 $ nano ~/.bash_profile
 #### And set the default_emoji=🤓
 #### of course choosing which ever emoij you'd like as your default
-
-## in case you work in changing colors in python 
-![Alt text](/../screenshots/color_command.png?raw=true "colorCommand")
-![Alt text](/../screenshots/color.png?raw=true "color")
