@@ -1,8 +1,9 @@
+# beefy_bash
 #### $ o /Users/admin/Desktop/foo.folder/ opens the foo.folder directory GUI window 
 ![Alt text](/../screenshots/o_command.png?raw=true "ocommand")
-#### $ o  opens the current directory that you are in 
 ![Alt text](/../screenshots/open_folder.png?raw=true "openFolder")
-# beefy_bash
+#### $ o  opens the current directory that you are in 
+
 Beefed up bash profile for all of those shortcuts you wish you had. 
 #### $ mod  shows all of your installed python modules 
 ![Alt text](/../screenshots/mod_command.png?raw=true "mod")
