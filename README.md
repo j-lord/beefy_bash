@@ -8,8 +8,9 @@ Beefed up bash profile for all of those shortcuts you wish you had.
 ![Alt text](/../screenshots/modu_command.png?raw=true "modu")
 
 #### $ emoji 🤓 will set a new emoji in your window
-### Before...
+#### Before...
 ![Alt text](/../screenshots/Terminal_Before.png?raw=true "emojiB4")
+
 #### ...After
 ![Alt text](/../screenshots/Terminal_After.png?raw=true "emojif")
 
