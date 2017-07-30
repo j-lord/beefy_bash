@@ -1,6 +1,6 @@
-#### $ o  opens the current directory that you are in 
 #### $ o /Users/admin/Desktop/foo.folder/ opens the foo.folder directory GUI window 
 ![Alt text](/../screenshots/o_command.png?raw=true "ocommand")
+#### $ o  opens the current directory that you are in 
 ![Alt text](/../screenshots/open_folder.png?raw=true "openFolder")
 # beefy_bash
 Beefed up bash profile for all of those shortcuts you wish you had. 
