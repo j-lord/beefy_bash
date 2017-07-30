@@ -17,4 +17,4 @@ Beefed up bash profile for all of those shortcuts you wish you had.
 $ nano ~/.bash_profile
 
 #### And set the default_emoji=🤓
-#### of course choosing which ever emoij you'd lile as your default
+#### of course choosing which ever emoij you'd like as your default
