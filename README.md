@@ -1,7 +1,7 @@
 # beefy_bash
 Beefed up bash profile for all of those shortcuts you wish you had. 
 
-### $ mod  shows all of your installed python modules 
+#### $ mod  shows all of your installed python modules 
 ![Alt text](/../screenshots/mod_command.png?raw=true "mod")
 
 ### $ modu  upgrades all of your installed python modules
