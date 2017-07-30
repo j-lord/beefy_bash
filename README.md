@@ -19,6 +19,6 @@ $ nano ~/.bash_profile
 #### And set the default_emoji=🤓
 #### of course choosing which ever emoij you'd like as your default
 
-#### in case you work in changing colors in python 
+### in case you work in changing colors in python 
 ![Alt text](/../screenshots/color_command.png?raw=true "colorCommand")
 ![Alt text](/../screenshots/color.png?raw=true "color")
