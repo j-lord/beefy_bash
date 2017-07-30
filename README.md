@@ -12,9 +12,7 @@
 ![Alt text](/../screenshots/open_folder.png?raw=true "openFolder")
 
 #### $ emoji 🤓 will set a new emoji in your window
-#### Before...
 ![Alt text](/../screenshots/Terminal_Before.png?raw=true "emojiB4")
-#### ...After
 ![Alt text](/../screenshots/Terminal_After.png?raw=true "emojif")
 #### To set the origianl emoji that you would like to see, the file must be edited using nano. 
 $ nano ~/.bash_profile
