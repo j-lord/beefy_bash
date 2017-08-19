@@ -12,7 +12,7 @@ alias p='python'                            # open python with just a p
 alias py='p'                                # in case I forget to use just the p
 alias ls='ls -G'                            # color code directories vs files
 alias o='open -a Finder ./'                 # o: Opens current directory in MacOS Finder
-alias trash='open ~/.Trash'
+alias trash='open ~/.Trash'                 # opens trash folder
 alias ~="cd ~"                              # ~: Go Home
 alias to="~/"                               # takes out the step of the home directory
 alias path='echo -e ${PATH//:/\\n}'         # path: Echo all executable Paths
@@ -20,21 +20,22 @@ alias ..='cd ../'                           # Go back 1 directory level
 alias .2='cd ../../'                        # Go back 2 directory levels
 alias .3='cd ../../../'                     # Go back 3 directory levels
 alias .4='cd ../../../../'                  # Go back 4 directory levels
-alias s='sublime'                           # edit: Opens any file in sublime editor s file.ini
+alias s='sublime'                           # edit: Opens any file in sublime editor -> s file.ini
 alias pw='pwd'
 # be carefull when there are folders in your path that contain
-# spaces in the name, pw breaks at space
+# spaces in the name, pw haults at space
 # show all of the python modules that are currently installed 
 alias mod='cd /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages' 
+# path depends on python version and module location  
 # upgrade all of the python modules !!!WARNING!!! this often breaks something as some module functionality may have been altered
 alias modu="pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U"
 alias here='pwd'                            # takes out the step needed to type current path
-alias his='builtin history | grep "$@"'     # history search
+alias his='builtin history | grep "$@"'     # history search -> his file.ini
 alias pipu='pip install --upgrade pip'      # upgrade pip
 alias sc='cd ~/scripts/'                    # go to scrips folder <-- where the scripts are kept
 alias scripts='cd ~/scripts'                # in case I forget about sc 
 alias color='python ~/scripts/colors.py'    # runs script that opens all python color options
-alias colors='color'                        # sometimes I may forget the command
+alias colors='color'                        # color is colors is color
 HISTFILESIZE=100000                         # increase bash history size 
 
 #   helper functions 
