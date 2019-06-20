@@ -41,7 +41,7 @@ HISTFILESIZE=100000                         # increase bash history size
 #   helper functions 
 #   ------------------------------------------------------------                
 alias ff="find . -name "                   # fastfind quickly search for file
-alias pro='pw=$(pw); e ~/.bash_profile; cd $pw'    # allows you to edit bash_profile from anywhere
+alias pro='e ~/.bash_profile; pw;'         # allows you to edit bash_profile from anywhere
 alias so='pw=$(pw); cd; source .bash_profile; cd $pw'  # allows you to source bash profile from anywhere
 cd() { builtin cd "$@"; ls; pwd; }         # list directory contents and path upon entering directory
 pipy() { pip install "$@" -t . ;}          # pipy numpy -> pip install numpy
